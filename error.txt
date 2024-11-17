@@ -1,3 +1,5 @@
 This is an error file!
 
 This is error 1
+
+This is error 2
